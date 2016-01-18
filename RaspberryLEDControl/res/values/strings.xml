@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">RaspberryLEDControl</string>
+    <string name="btn_show_on">Turn on</string>
+    <string name="btn_show_off">Turn off</string>
+
+</resources>
